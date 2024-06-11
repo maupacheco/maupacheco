@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Programmer from México City</h3>
 <p align="center">I am a computer engineering student at the National Autonomous University of Mexico. I am very passionate about technology and programming. I like graphic design, video game development, web development, cybersecurity, and data analysis. 🛠️</p>
 
+
 <div align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -21,6 +22,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+
 - 🔭 I am currently finishing my university degree at UNAM.
 
 - 🌱 I am learning Finance, Databases, Cybersecurity, and Secure Data Networks.
@@ -35,6 +37,8 @@
 
 - ⚡ I used to love graphic design, I never thought I would implement it through programming."
 
+<br><img align="left" alt="Coding" width="50" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif">
+<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
